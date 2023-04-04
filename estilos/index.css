@@ -226,8 +226,9 @@ footer .titulo h6{
             font-size: 20px;
             letter-spacing: 3px;    
             text-align: center;
-            background: linear-gradient(to right, #6190e8, #a7bfe8);
-            color: #fff; 
+            background: #000000;
+            color: red;           
+             
             width: 320px;
             height: 30px;
             margin: auto;
